@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C# (.NET), and getting better at React and Typescript
 - 💞️ I’m looking to collaborate on any kind of web app (frontend)
 - 📫 How to reach me samuel.mir012@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Almost a black belt in ju-jutsu
 
 <!---
